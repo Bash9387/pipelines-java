@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/srmulam/DevSecOps/_apis/build/status/Bash9387.pipelines-java?branchName=main)](https://dev.azure.com/srmulam/DevSecOps/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
